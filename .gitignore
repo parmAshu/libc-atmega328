@@ -1,0 +1,10 @@
+/Debug
+/Includes
+/Binaries
+.DS_Store
+.project
+.cproject
+**settings/
+mainFile.c
+main.c
+
